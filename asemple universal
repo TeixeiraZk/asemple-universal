@@ -5,7 +5,7 @@ local isMobile = UserInputService.TouchEnabled and not UserInputService.Keyboard
 
 if isMobile then
     -- Executa a versão Mobile
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeixeiraZk/Asemple-Ultimate-mobile/refs/heads/main/asemple%20ultimate%20Mobile", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TeixeiraZk/Asemple-Ultimate-mobile/refs/heads/main/asemple%20ultimate%20Mobile%20new", true))()
 else
     -- Executa a versão PC
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TeixeiraZk/Asemple-Ultimate/refs/heads/main/Asemple%20Ultimate", true))()
